@@ -1,0 +1,6 @@
+[book]
+authors = ["Kaleb Elwert"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Seabird Documentation"

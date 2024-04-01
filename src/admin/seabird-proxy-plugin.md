@@ -3,6 +3,10 @@
 [![Static Badge](https://img.shields.io/badge/repository-blue?logo=git&label=%20&labelColor=grey&color=blue)](https://github.com/seabird-chat/seabird-proxy-plugin)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/seabird-chat/seabird-proxy-plugin/docker-publish.yml)](https://github.com/seabird-chat/seabird-proxy-plugin/actions/workflows/docker-publish.yml)
 
+## Dependencies
+
+- `seabird-core`
+
 ## Configuration
 
 ### Environment Variables
@@ -42,3 +46,8 @@ user_suffix: "[source name]\u000f"
 user_prefix: ""
 user_suffix: " (Source Name)"
 ```
+
+### Runtime Config Updates
+
+In order to force the config to reload, send a `SIGHUP` to the
+`seabird-proxy-plugin` process.

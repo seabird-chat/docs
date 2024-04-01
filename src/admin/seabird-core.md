@@ -5,10 +5,7 @@
 
 ## Configuration
 
-For production, it is generally recommended that environment variables be
-configured in the environment, but for dev, both implementations will
-conveniently load any `.env` file in the working directory of the running
-service.
+### Environment Variables
 
 - `DATABASE_URL` (required) - where to place the sqlite database seabird-core
   will use. This should be in a URL format, so `sqlite:tokens.db` will be

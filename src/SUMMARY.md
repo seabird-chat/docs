@@ -1,15 +1,14 @@
 # Summary
 
 [Introduction](README.md)
-[Terminology]()
 
 # Administrator Guide
 
-[Dependencies]()
+[Dependencies](admin/dependencies.md)
 
 - [Core Components]()
-  - [seabird-core]()
-  - [seabird-proxy-plugin]()
+  - [seabird-core](admin/seabird-core.md)
+  - [seabird-proxy-plugin](admin/seabird-proxy-plugin.md)
 - [Chat Backends]()
   - [seabird-discord-backend]()
   - [seabird-irc-backend]()
@@ -17,6 +16,7 @@
 - [Plugins]()
   - [seabird-adventofcode-plugin]()
   - [seabird-datadog-plugin]()
+  - [seabird-github-plugin]()
   - [seabird-plugin-bundle]()
   - [seabird-stock-plugin]()
   - [seabird-url-plugin]()
@@ -26,17 +26,20 @@
 
 # Developer Guide
 
+[Contributing]()
+[Roadmap]()
+
 - [Local Development]()
 - [Provided Libraries]()
   - [Go]()
   - [Python]()
   - [Rust]()
-- [Writing Chat Backends]()
 - [Writing Plugins]()
 
 # Advanced Topics
 
 - [Using the protos directly]()
+- [Writing Chat Backends]()
 
 ---
 

@@ -10,7 +10,7 @@
   - [seabird-core](admin/seabird-core.md)
   - [seabird-proxy-plugin](admin/seabird-proxy-plugin.md)
 - [Chat Backends]()
-  - [seabird-discord-backend]()
+  - [seabird-discord-backend](admin/seabird-discord-backend.md)
   - [seabird-irc-backend]()
   - [seabird-minecraft-backend]()
 - [Plugins]()

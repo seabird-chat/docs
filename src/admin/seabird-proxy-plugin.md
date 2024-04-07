@@ -11,10 +11,14 @@
 
 ### Environment Variables
 
+{{#include _common_settings.md}}
+
+Proxy-specific settings
+
 - `PROXY_CONFIG_FILE` (required) - path to the config file for the plugin
 - `RUST_LOG` (optional, defaults to `info,seabird-proxy-plugin=debug`) - this is
   a common rust environment variable documented here because we set a default.
-  All seabird functionality is exposed under `seabird`.
+  All seabird functionality is exposed under the `seabird` logger.
 
 ### Config File
 

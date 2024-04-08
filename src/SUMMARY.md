@@ -14,7 +14,7 @@
   - [seabird-irc-backend](admin/seabird-irc-backend.md)
   - [seabird-minecraft-backend](admin/seabird-minecraft-backend.md)
 - [Plugins]()
-  - [seabird-adventofcode-plugin]()
+  - [seabird-adventofcode-plugin](admin/seabird-adventofcode-plugin.md)
   - [seabird-datadog-plugin]()
   - [seabird-github-plugin]()
   - [seabird-plugin-bundle]()

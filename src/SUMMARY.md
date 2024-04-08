@@ -12,7 +12,7 @@
 - [Chat Backends]()
   - [seabird-discord-backend](admin/seabird-discord-backend.md)
   - [seabird-irc-backend](admin/seabird-irc-backend.md)
-  - [seabird-minecraft-backend]()
+  - [seabird-minecraft-backend](admin/seabird-minecraft-backend.md)
 - [Plugins]()
   - [seabird-adventofcode-plugin]()
   - [seabird-datadog-plugin]()

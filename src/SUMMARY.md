@@ -11,7 +11,7 @@
   - [seabird-proxy-plugin](admin/seabird-proxy-plugin.md)
 - [Chat Backends]()
   - [seabird-discord-backend](admin/seabird-discord-backend.md)
-  - [seabird-irc-backend]()
+  - [seabird-irc-backend](admin/seabird-irc-backend.md)
   - [seabird-minecraft-backend]()
 - [Plugins]()
   - [seabird-adventofcode-plugin]()

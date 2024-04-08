@@ -11,7 +11,7 @@
 
 ### Environment Variables
 
-{{#include _common_settings.md}}
+{{#include _common_backend_settings.md}}
 
 Discord-specific settings
 

@@ -11,7 +11,7 @@
 
 ### Environment Variables
 
-{{#include _common_settings.md}}
+{{#include _common_plugin_settings.md}}
 
 Proxy-specific settings
 

@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](README.md)
+[Architecture](architecture.md)
 
 # Administrator Guide
 
